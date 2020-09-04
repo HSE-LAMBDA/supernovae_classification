@@ -20,3 +20,6 @@ dist/
 
 ### SN data base ###
 sne/
+
+### Mac
+.DS_Store
