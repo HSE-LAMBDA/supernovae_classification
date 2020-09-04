@@ -1,0 +1,142 @@
+claimed_types,ia/not-ia
+AGN,0
+AGN / QSO,0
+AGN?,0
+BL,0
+BL Lac,0
+Blazar,0
+blazar,0
+Blazer,0
+blazer,0
+blue,0
+c-BL,0
+CC,0
+Core-Collapse,0
+CV,0
+CV?,0
+dK,0
+dM,0
+DN,0
+Dwarf,0
+dwarf,0
+Dwarf Nova,0
+Flare,0
+flare,0
+Flare?,0
+Galaxy,0
+HP,0
+HPM,0
+I,0
+I Pec,0
+I-faint,0
+I-rapid,0
+Ia,1
+Ia CSM,0
+Ia Pec,0
+Ia Pec?,0
+Ia-00cx,0
+Ia-02cx,0
+Ia-02ic-like,0
+Ia-09dc,0
+Ia-91bg,0
+Ia-91T,0
+Ia-91Tlike,0
+Ia-92bg,0
+Ia-CSM/IIn,0
+Ia-HV,0
+Ia-p,0
+Ia-SC,0
+Ia?,1
+Ia? P?,0
+Ia(N),0
+Ia*,1
+Ia/91T,0
+Ia/c,0
+Ia/c?,0
+Ia/Ic,0
+Ia/Ic?,0
+IaPec(N),0
+Iax[02cx-like],0
+Ib,0
+Ib (Ca rich),0
+Ib Pec,0
+Ib-Ca,0
+Ib-n/IIb-n,0
+Ib?,0
+Ib/c,0
+Ib/c Pec,0
+Ib/c?,0
+Ib/Ic,0
+Ib/Ic (Ca rich),0
+Ib/IIb,0
+Ibn,0
+Ic,0
+Ic BL,0
+Ic Pec,0
+Ic?,0
+Ic/b,0
+Ic/Ic-BL,0
+Ic/Ic-bl,0
+II,0
+II L,0
+II P,0
+II P Pec,0
+II P pec,0
+II Pec,0
+II Pec?,0
+II-p,0
+II?,0
+II/Ib,0
+II/IIB,0
+IIb,0
+IIb Pec,0
+IIb?,0
+IIc,0
+IIL/IIn,0
+IIn,0
+IIn L,0
+IIn P,0
+IIn Pec,0
+IIn-pec/LBV,0
+IIn?,0
+IIn/Ibn,0
+IIn/LBV,0
+IIP/IIL,0
+Impostor,0
+Kilonova,0
+Kilonova?,0
+LBV,0
+LBV to IIn,0
+Lensed SN Ia,0
+LGRB,0
+LPV,0
+LRN,0
+M-dwarf,0
+microlensing,0
+Minor Planet,0
+mover,0
+nIa,0
+Nova,0
+nova,0
+nova?,0
+NS + NS,0
+Pec,0
+PISN,0
+QSO,0
+QSO?,0
+Quasar,0
+RCrB,0
+SLSN,0
+SLSN-I,0
+SLSN-I-R,0
+SLSN-II,0
+SLSN-II?,0
+SLSN-IIn,0
+SLSN-R,0
+SSO,0
+Star,0
+TDE,0
+ULENS,0
+Variable,0
+Variable Star,0
+VarStar,0
