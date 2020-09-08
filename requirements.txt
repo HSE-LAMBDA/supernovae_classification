@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+Keras
+git+https://github.com/snad-space/snad.git
